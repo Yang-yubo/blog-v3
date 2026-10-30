@@ -9,7 +9,7 @@ categories: [生活]
 tags: []
 ---
 
-## THE FIRS TDAY
+## THE FIRST DAY
 
 ```md wrap
 
