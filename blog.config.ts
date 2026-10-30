@@ -1,7 +1,7 @@
 import type { FeedEntry } from './app/types/feed'
 
 const basicConfig = {
-	title: '我的博客',
+	title: '哲哲',
 	subtitle: '记录技术与生活',
 	// 长 description 利好于 SEO
 	description: '分享学习笔记、技术实践与日常生活。',
