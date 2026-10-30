@@ -6,9 +6,9 @@ const basicConfig = {
 	// 长 description 利好于 SEO
 	description: '分享学习笔记、技术实践与日常生活。',
 	author: {
-		name: '博主',
-		avatar: 'https://weavatar.com/avatar/?d=initials&name=博主',
-		email: '',
+		name: '哲哲',
+		avatar: '/avatar.jpg',
+		email: '2774199104@qq.com',
 		homepage: '/',
 	},
 	copyright: {
@@ -16,7 +16,7 @@ const basicConfig = {
 		name: '署名-非商业性使用-相同方式共享 4.0 国际',
 		url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
 	},
-	favicon: 'https://weavatar.com/avatar/?d=initials&name=博主',
+	favicon: '/avatar.jpg',
 	language: 'zh-CN',
 	timeEstablished: '2026-10-30',
 	timeZone: 'Asia/Shanghai',
