@@ -137,6 +137,9 @@ export default defineNuxtConfig({
 
 	// @keep-sorted
 	modules: [
+export default defineNuxtConfig({
+  modules: ['@vercel/analytics']
+})
 		'@bikariya/image-viewer',
 		'@bikariya/modals',
 		'@bikariya/shiki',
@@ -150,6 +153,9 @@ export default defineNuxtConfig({
 		'@vueuse/nuxt',
 		'nuxt-llms',
 		'unplugin-yaml/nuxt',
+		export default defineNuxtConfig({
+  modules: ['@vercel/analytics']
+})
 	],
 
 	colorMode: {
