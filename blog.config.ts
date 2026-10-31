@@ -20,7 +20,7 @@ const basicConfig = {
 	language: 'zh-CN',
 	timeEstablished: '2026-10-30',
 	timeZone: 'Asia/Shanghai',
-	url: 'http://localhost:3000/',
+	url: 'https://yangyubo.top/',
 	defaultCategory: '未分类',
 }
 
