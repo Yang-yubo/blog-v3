@@ -15,5 +15,13 @@ export default [{
 		archs: ['Nuxt', 'Vercel'],
 		date: '2019-07-19',
 		comment: 'Clarity 主题作者',
+	}, {
+		author: '_2_haowen_V',
+		title: '_2_haowen_V',
+		desc: '顺天意，承因果，今日方知我是我',
+		link: 'https://hehaowen.com.cn/',
+		icon: 'https://img.hehaowen.com.cn/image/avatar/lis.jpg',
+		avatar: 'https://img.hehaowen.com.cn/image/avatar/lis.jpg',
+		date: '2026-11-01',
 	}],
 }] satisfies FeedGroup[]
