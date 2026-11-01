@@ -94,16 +94,16 @@ const blogConfig = {
 /** 用于生成 OPML 和友链页面配置 */
 export const myFeed: FeedEntry = {
 	author: blogConfig.author.name,
-	sitenick: blogConfig.title,
+	sitenick: '小白成长记',
 	title: blogConfig.title,
-	desc: blogConfig.subtitle || blogConfig.description,
+	desc: '上善若水，水善利万物而不争。',
 	link: blogConfig.url,
 	feed: new URL('/atom.xml', blogConfig.url).toString(),
 	icon: blogConfig.favicon,
 	avatar: blogConfig.author.avatar,
-	archs: ['Nuxt'],
+	archs: ['Nuxt', 'Vercel'],
 	date: blogConfig.timeEstablished,
-	comment: '这是我自己',
+	comment: '记录技术与生活的个人博客',
 }
 
 export default blogConfig
