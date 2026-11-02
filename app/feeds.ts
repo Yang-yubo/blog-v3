@@ -23,5 +23,21 @@ export default [{
 		icon: 'https://img.hehaowen.com.cn/image/avatar/lis.jpg',
 		avatar: 'https://img.hehaowen.com.cn/image/avatar/lis.jpg',
 		date: '2026-11-01',
+	}, {
+		author: '郭雨博',
+		title: '郭雨博',
+		desc: '别人越是想看我倒下 越是我坚持的理由',
+		link: 'https://blog.guoyubo.cn/',
+		icon: 'https://img.guoyubo.cn/img/Image-10-43-28.png',
+		avatar: 'https://img.guoyubo.cn/img/Image-10-43-28.png',
+		date: '2026-11-02',
+	}, {
+		author: '琚~涵',
+		title: '琚~涵',
+		desc: 'Ciallo～(∠・ω< )⌒★',
+		link: 'https://blog.han1130.top/',
+		icon: 'https://img.han1130.top/img/touxiang.png',
+		avatar: 'https://img.han1130.top/img/touxiang.png',
+		date: '2026-11-02',
 	}],
 }] satisfies FeedGroup[]
