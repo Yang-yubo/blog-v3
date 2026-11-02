@@ -32,8 +32,8 @@ export default [{
 		avatar: 'https://img.guoyubo.cn/img/Image-10-43-28.png',
 		date: '2026-11-02',
 	}, {
-		author: '琚~涵',
-		title: '琚~涵',
+		author: '翞~涵',
+		title: '翞~涵',
 		desc: 'Ciallo～(∠・ω< )⌒★',
 		link: 'https://blog.han1130.top/',
 		icon: 'https://img.han1130.top/img/touxiang.png',
