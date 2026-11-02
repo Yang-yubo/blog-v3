@@ -7,6 +7,7 @@ image: /cover-first.jpg
 type: story
 categories: [生活]
 tags: []
+recommend: 1
 ---
 
 ## THE FIRST DAY

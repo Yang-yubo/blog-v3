@@ -7,6 +7,7 @@ image: /cover-domain.jpg
 type: story
 categories: [杂谈]
 tags: [经历, 域名]
+recommend: 1
 ---
 
 ## 从一个没弄好的域名说起
