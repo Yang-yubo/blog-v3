@@ -7,7 +7,7 @@ image: /cover-first.jpg
 type: story
 categories: [生活]
 tags: []
-recommend: 1
+recommend: ture
 ---
 
 ## THE FIRST DAY
